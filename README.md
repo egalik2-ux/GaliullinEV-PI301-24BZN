@@ -22,3 +22,14 @@
 - `rectangle.py` — Rectangle (task 6)
 - `table_ext.py` — Table с добавлением и удалением строк и столбцов (task 7)
 - `sms.py` — Person, Company и функция send_sms (task 8)
+
+## Реализованные задачи по определению операторов
+
+- `food_info.py` — FoodInfo с оператором сложения (task 1)
+- `reversed_list.py` — ReversedList с __len__ и __getitem__ (task 2)
+- `square_function.py` — SquareFunction с __call__ (task 3)
+- `date_diff.py` — Date с оператором вычитания (task 4)
+- `point.py` — Point с операторами == и != (task 5)
+- `sparse_array.py` — SparseArray с __getitem__ и __setitem__ (task 6)
+- `polynomial.py` — Polynomial с __call__, __add__, __sub__ (task 7)
+- `matrix.py` — Matrix с __getitem__, __setitem__, __add__, __mul__ (task 8)
