@@ -1,0 +1,10 @@
+class ReversedList:
+    def __init__(self, lst):
+        self.lst = lst
+
+    def __len__(self):
+        return len(self.lst)
+
+    def __getitem__(self, key):
+        # Вычисляем индекс в оригинальном списке: последний становится первым и т.д.
+        return self.lst[len(self.lst) - 1 - key]
